@@ -1,0 +1,11 @@
+{
+  "name": "starterpuppeteer",
+  "version": "1.0.0",
+  "description": "Testing Google Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
