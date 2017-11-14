@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer');
 
-console.log("bot starting");
+console.log("Starting puppeteer!")
+
 (async () => {
 
     const browser = await puppeteer.launch();
